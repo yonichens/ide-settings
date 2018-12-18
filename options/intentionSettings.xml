@@ -1,0 +1,15 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="XML/Expand empty tag" />
+    <ignoreAction name="CSS/Extract inline CSS" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="XML/Merge Tags" />
+    <ignoreAction name="SQL/Qualify identifier" />
+    <ignoreAction name="SQL/Quote identifier" />
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
+    <ignoreAction name="Language Injection/Un-inject Language/Reference" />
+  </component>
+</application>
